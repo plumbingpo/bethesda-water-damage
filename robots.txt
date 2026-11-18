@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationbethesda.com/sitemap.xml
